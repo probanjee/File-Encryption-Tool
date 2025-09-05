@@ -68,3 +68,4 @@ then run this...
 -  Support multiple encryption algorithms (AES, DES, etc.)
 
 -  Cross-platform GUI version
+
