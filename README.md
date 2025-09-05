@@ -54,8 +54,8 @@ File encrypted successfully! Output file: secret.txt.enc
 
 📌 Future Improvements
 
-Save key securely in an external file or database
+- Save key securely in an external file or database
 
-Add support for multiple encryption algorithms (AES, DES, etc.)
+- Add support for multiple encryption algorithms (AES, DES, etc.)
 
-Cross-platform GUI version
+- Cross-platform GUI version
